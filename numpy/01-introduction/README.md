@@ -210,7 +210,7 @@ Create a simple script to compare:
 - [NumPy Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
 
 ### Interactive Learning
-- [NumPy Exercises](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/)
+- [NumPy Exercises](https://pynative.com/python-numpy-exercise/)
 - [NumPy Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
 ### Books
