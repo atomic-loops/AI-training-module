@@ -87,6 +87,7 @@ mask = arr[:, 0] > 3  # Rows where first column > 3
 result = arr[mask]  # [[4 5 6] [7 8 9]]
 
 # Select elements based on condition
+result = arr.copy()
 result = arr[arr > 5] = -1  # Replace all > 5 with -1
 ```
 
